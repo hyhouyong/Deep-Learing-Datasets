@@ -5,3 +5,5 @@
     * mnist 
       * 当前目录下
          第四个：https://pan.baidu.com/s/1fvTmSlIwzNeB6j0L1VXTTA  sh1f
+    * lfw
+      * 链接：https://pan.baidu.com/s/1bbFJbkqlGEQQN-HM3HuWUg 密码：qiqk
