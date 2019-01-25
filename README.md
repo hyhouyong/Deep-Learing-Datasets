@@ -15,3 +15,5 @@
       * 主页链接：http://www.cvlibs.net/datasets/kitti/ <br>
       训练数据标签：http://kitti.is.tue.mpg.de/kitti/data_object_label_2.zip <br>
       训练数据图像：http://kitti.is.tue.mpg.de/kitti/data_object_image_2.zip
+    * VOC
+      * http://host.robots.ox.ac.uk/pascal/VOC/
