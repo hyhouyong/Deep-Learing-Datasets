@@ -17,3 +17,5 @@
       训练数据图像：http://kitti.is.tue.mpg.de/kitti/data_object_image_2.zip
     * VOC
       * http://host.robots.ox.ac.uk/pascal/VOC/
+    * COCO
+      * http://cocodataset.org/#download
