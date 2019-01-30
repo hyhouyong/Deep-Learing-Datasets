@@ -21,5 +21,5 @@
       * http://host.robots.ox.ac.uk/pascal/VOC/
     * COCO
       * http://cocodataset.org/#download
-- [x] Pose
+- [x] 姿态估计
     * https://drive.google.com/uc?id=1zahjQWhuKIYWRRI2ZlHzn65Ug_jIiC4l&export=download
