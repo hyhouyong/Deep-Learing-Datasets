@@ -9,6 +9,8 @@
       * 链接：https://pan.baidu.com/s/1bbFJbkqlGEQQN-HM3HuWUg 密码：qiqk
     * houses
       * https://github.com/emanhamed/Houses-dataset
+    * Oxford buildings dataset
+      * http://www.robots.ox.ac.uk/~vgg/data/oxbuildings/
 - [x] Mask-RCNN
     * balloon_dataset
       * 链接：https://pan.baidu.com/s/1fPgHp6BL5cGePkzBn96jzg 密码：dlkv
