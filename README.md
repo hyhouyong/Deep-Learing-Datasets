@@ -29,4 +29,5 @@
     * https://drive.google.com/uc?id=1zahjQWhuKIYWRRI2ZlHzn65Ug_jIiC4l&export=download
 - [x] 图像检索
     * 链接：https://pan.baidu.com/s/1mit6Izm#list/path=%2F  密码：8hjn
+    * The INRIA Holidays dataset  http://lear.inrialpes.fr/people/jegou/data.php#holidays
 
