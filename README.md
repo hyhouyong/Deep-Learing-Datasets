@@ -30,4 +30,7 @@
 - [x] 图像检索
     * 链接：https://pan.baidu.com/s/1mit6Izm#list/path=%2F  密码：8hjn
     * The INRIA Holidays dataset  http://lear.inrialpes.fr/people/jegou/data.php#holidays
+    
+- [x] 图像分类
+    * 链接：http://www.cs.toronto.edu/~kriz/cifar.html
 
